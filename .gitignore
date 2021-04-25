@@ -1,2 +1,4 @@
 .ipynb_checkpoints
 clustering_data
+.vim
+__pycache__
