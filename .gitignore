@@ -2,3 +2,4 @@
 clustering_data
 .vim
 __pycache__
+.mypy_cache
